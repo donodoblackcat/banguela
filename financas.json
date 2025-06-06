@@ -1,0 +1,136 @@
+{
+  "usuarios": {
+    "1323348551031328888": {
+      "saldo": 728.0,
+      "transacoes": [
+        {
+          "tipo": "receita",
+          "valor": 500,
+          "descricao": "Recompensa di\u00e1ria",
+          "data": "2025-06-06 18:51:52"
+        },
+        {
+          "tipo": "receita",
+          "valor": 228,
+          "descricao": "Sal\u00e1rio do trabalho",
+          "data": "2025-06-06 18:52:06"
+        },
+        {
+          "tipo": "receita",
+          "valor": 100,
+          "descricao": "Acertou o copo",
+          "data": "2025-06-06 19:20:21"
+        },
+        {
+          "tipo": "despesa",
+          "valor": 100.0,
+          "descricao": "Perdeu duelo para bestoffortcontrol60ahz",
+          "data": "2025-06-06 20:00:32"
+        },
+        {
+          "tipo": "receita",
+          "valor": 300000,
+          "descricao": "Adicionado por menor_pi",
+          "data": "2025-06-06 20:01:11"
+        },
+        {
+          "tipo": "despesa",
+          "valor": 300000,
+          "descricao": "Errou o copo",
+          "data": "2025-06-06 20:01:44"
+        }
+      ]
+    },
+    "1365385846827515904": {
+      "saldo": 200,
+      "transacoes": [
+        {
+          "tipo": "receita",
+          "valor": 200,
+          "descricao": "Sal\u00e1rio do trabalho",
+          "data": "2025-06-06 18:53:54"
+        }
+      ]
+    },
+    "861945367771611147": {
+      "saldo": 600,
+      "transacoes": [
+        {
+          "tipo": "receita",
+          "valor": 500,
+          "descricao": "Recompensa di\u00e1ria",
+          "data": "2025-06-06 19:29:00"
+        },
+        {
+          "tipo": "receita",
+          "valor": 100,
+          "descricao": "Acertou o copo",
+          "data": "2025-06-06 19:29:13"
+        },
+        {
+          "tipo": "despesa",
+          "valor": 100,
+          "descricao": "Errou o copo",
+          "data": "2025-06-06 19:29:21"
+        },
+        {
+          "tipo": "despesa",
+          "valor": 100,
+          "descricao": "Errou o copo",
+          "data": "2025-06-06 19:29:28"
+        },
+        {
+          "tipo": "receita",
+          "valor": 100,
+          "descricao": "Acertou o copo",
+          "data": "2025-06-06 19:29:36"
+        },
+        {
+          "tipo": "receita",
+          "valor": 100,
+          "descricao": "Acertou o copo",
+          "data": "2025-06-06 19:29:42"
+        },
+        {
+          "tipo": "receita",
+          "valor": 100,
+          "descricao": "Acertou o copo",
+          "data": "2025-06-06 19:29:46"
+        },
+        {
+          "tipo": "despesa",
+          "valor": 100,
+          "descricao": "Errou o copo",
+          "data": "2025-06-06 19:29:52"
+        }
+      ]
+    },
+    "1129261755428786206": {
+      "saldo": 30100.0,
+      "transacoes": [
+        {
+          "tipo": "receita",
+          "valor": 30000,
+          "descricao": "Adicionado por menor_pi",
+          "data": "2025-06-06 19:58:54"
+        },
+        {
+          "tipo": "receita",
+          "valor": 100.0,
+          "descricao": "Ganhou duelo contra menor_pi",
+          "data": "2025-06-06 20:00:32"
+        }
+      ]
+    }
+  },
+  "vips": {
+    "1323348551031328888": {
+      "expira_em": "2025-06-13 20:02:52",
+      "ultimo_claim": "2025-06-06 20:03:07",
+      "custom": "<:Olhos_sinistro:1364592234887905330>"
+    }
+  },
+  "autorizados": [
+    1323348551031328888
+  ]
+}
